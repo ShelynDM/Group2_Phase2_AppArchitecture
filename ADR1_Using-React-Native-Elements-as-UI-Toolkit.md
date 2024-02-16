@@ -1,4 +1,4 @@
-**ADR1: Using React Native Elements as UI Toolkit**
+# ADR1: Using React Native Elements as UI Toolkit
 
 **Status**
 Accepted
